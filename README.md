@@ -29,10 +29,10 @@
   <h3>Instalação</h3>
   <ol>
       <li><strong>Clone o repositório</strong>:
-          <pre><code>git clone https://github.com/seu-usuario/amigo-secreto.git</code></pre>
+          <pre><code>git clone https://github.com/BrunoRomeu/Desafio-Amigo-Secreto-Alura.git</code></pre>
       </li>
       <li><strong>Acesse a pasta do projeto</strong>:
-          <pre><code>cd amigo-secreto</code></pre>
+          <pre><code>cd Desafio-Amigo-Secreto-Alura</code></pre>
       </li>
       <li><strong>Abra o arquivo <code>index.html</code></strong>:
           <p>Basta abrir o arquivo <code>index.html</code> no seu navegador para começar a usar o projeto.</p>
